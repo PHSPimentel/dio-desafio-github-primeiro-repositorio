@@ -1,2 +1,6 @@
 # dio-desafio-github-primeiro-repositorio
-Desafio de código
+ositório criado para o Desafio de projeto 
+
+
+## Links úteis:
+[Sintaxe básica Markdown](https://www.markdownguide.org/)
